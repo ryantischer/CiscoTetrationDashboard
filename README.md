@@ -13,6 +13,6 @@ commonPROTObyBYTES = Filtered Aggregator
 
 sqlConnectionsbyServer = or/and filter
 
-srttRELATIVEtoBYTES = Java Script Aggregators
+srttRELATIVEtoBYTES = JavaScript Aggregators
 
 topPROTOwithoutTCP = Not filter
